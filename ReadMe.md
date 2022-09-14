@@ -1,8 +1,6 @@
 # Crypto Crowdfund
 
-<div align="center">
-    <img src="./assets/logo.png" style="width: 320px" />
-</div>
+<img src="./assets/logo.png" style="width: 320px" />
 
 ## For Creators
 
